@@ -2,6 +2,10 @@
     background-color: #FFFFFF;
 }
 
+.footers-fix {
+    opacity: .9;
+}
+
 #footer-sections {
     opacity: .9;
 }
