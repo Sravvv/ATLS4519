@@ -1,3 +1,7 @@
 .header-background {
     background-color: #FFFFFF;
 }
+
+#footer-sections {
+    opacity: .9;
+}
